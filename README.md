@@ -1,5 +1,4 @@
 # Young's Demos
-This is kind of demos for frameworks or tools what I use
 
 #### ApexCharts_demo 
 这个目录下是ApexCharts相关的demo
